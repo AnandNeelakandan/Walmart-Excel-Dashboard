@@ -40,29 +40,6 @@ The project aims to answer the following business questions:
 ![Walmart Excel Dashboard](https://github.com/AnandNeelakandan/Walmart-Excel-Dashboard/blob/main/Walmart_Excel_Dashboard_Screenshot.png)
 
 ---
-Problem Statements and Solutions
-1. Key Performance Indicators (KPIs)
-Objective: Dynamically display critical business metrics such as Total Sales, Total Profit, Total Quantity, Number of Orders, and Profit Margin.
-
-Steps:
-
-Import the Orders Table using Power Query.
-Create calculated columns for:
-Profit Margin: Profit / Sales.
-Total Orders: Count of Order ID.
-Use formulas to calculate key metrics:
-Total Sales: =SUM(Sales).
-Total Profit: =SUM(Profit).
-Total Quantity: =SUM(Quantity).
-Dynamic KPI Table:
-
-Metric	Symbol
-Total Sales	💰
-Total Profit	📈
-Total Quantity	📦
-Number of Orders	🛒
-Profitability (%)	💹
----
 ## 🏁 Conclusion
 This Excel dashboard delivers a clear overview of Walmart’s business performance across multiple dimensions.  
 It effectively demonstrates how Excel can be used as a BI tool for interactive reporting, even without Power BI.
