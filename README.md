@@ -37,7 +37,7 @@ The project aims to answer the following business questions:
 
 ## 📸 Dashboard Preview
 
-![Walmart Excel Dashboard]([Walmart_Excel_Dashboard_Screenshot.png/Screenshot 2025-10-07 215315.png](https://github.com/AnandNeelakandan/Walmart-Excel-Dashboard/blob/main/Walmart_Excel_Dashboard_Screenshot.png/Walmart_Excel_Dashboard_Screenshot.png.png))
+![Walmart Excel Dashboard](https://github.com/AnandNeelakandan/Walmart-Excel-Dashboard/blob/main/Walmart_Excel_Dashboard_Screenshot.png)
 
 ---
 
