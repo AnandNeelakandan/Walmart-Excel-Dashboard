@@ -49,7 +49,7 @@ It effectively demonstrates how Excel can be used as a BI tool for interactive r
 ## 💡 Tools Used
 - Microsoft Excel  
 - Pivot Tables & Charts  
-- Excel Formulas: `VLOOKUP()`, `CONCAT()`, `IF()`, `SUMIFS()`  
+- Excel Formulas: `VLOOKUP()`, `CONCAT()`, `index()`, `match()`  
 
 ---
 
