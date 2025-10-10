@@ -59,3 +59,13 @@ It effectively demonstrates how Excel can be used as a BI tool for interactive r
 | `Walmart_Excel_Dashboard.xlsx` | Interactive dashboard |
 | `Walmart_Dataset.xlsx` | Raw dataset |
 | `Walmart_Excel_Dashboard_Screenshot.png` | Dashboard preview |
+
+---
+📧 Contact
+
+📌 Developed by: [Anand Neelakandan]
+
+🔗 GitHub: [https://github.com/AnandNeelakandan?tab=repositories]
+
+💼 LinkedIn: [www.linkedin.com/in/anand-neelakandan-ab3219380]
+
